@@ -1,25 +1,32 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\Tryndade\\Tryndade.csproj": {}
+    "C:\\projetos\\Tryndade\\Tryndade.csproj": {}
   },
   "projects": {
-    "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\Tryndade\\Tryndade.csproj": {
+    "C:\\projetos\\Tryndade\\Tryndade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\Tryndade\\Tryndade.csproj",
+        "projectUniqueName": "C:\\projetos\\Tryndade\\Tryndade.csproj",
         "projectName": "Tryndade",
-        "projectPath": "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\Tryndade\\Tryndade.csproj",
-        "packagesPath": "C:\\Users\\cawai_7tfegop\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\cawai_7tfegop\\Documents\\projetos\\Tryndade\\obj\\",
+        "projectPath": "C:\\projetos\\Tryndade\\Tryndade.csproj",
+        "packagesPath": "C:\\Users\\monytor TI\\.nuget\\packages\\",
+        "outputPath": "C:\\projetos\\Tryndade\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\cawai_7tfegop\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\monytor TI\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
