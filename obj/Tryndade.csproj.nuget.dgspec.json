@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\projetos\\Tryndade\\Tryndade.csproj": {}
+    "c:\\projetos\\Tryndade\\Tryndade.csproj": {}
   },
   "projects": {
-    "C:\\projetos\\Tryndade\\Tryndade.csproj": {
+    "c:\\projetos\\Tryndade\\Tryndade.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\projetos\\Tryndade\\Tryndade.csproj",
+        "projectUniqueName": "c:\\projetos\\Tryndade\\Tryndade.csproj",
         "projectName": "Tryndade",
-        "projectPath": "C:\\projetos\\Tryndade\\Tryndade.csproj",
+        "projectPath": "c:\\projetos\\Tryndade\\Tryndade.csproj",
         "packagesPath": "C:\\Users\\monytor TI\\.nuget\\packages\\",
-        "outputPath": "C:\\projetos\\Tryndade\\obj\\",
+        "outputPath": "c:\\projetos\\Tryndade\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -50,6 +50,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.Cookies": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "Microsoft.AspNetCore.Identity": {
               "target": "Package",
               "version": "[2.2.0, )"
@@ -67,6 +71,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[8.0.10, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
             },
             "Npgsql.EntityFrameworkCore.PostgreSQL": {
               "target": "Package",
